@@ -1,0 +1,8 @@
+
+<suite name="ParaBank Suite">
+  <test name="Banking Tests">
+    <packages>
+      <package name="tests"/>
+    </packages>
+  </test>
+</suite>
